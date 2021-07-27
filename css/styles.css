@@ -1,0 +1,9 @@
+body {
+    background-color: #2a3b4c;
+}
+
+#game-wrapper {
+    width: 1536px;
+    height: 768px;
+    margin: 50px auto;
+}
