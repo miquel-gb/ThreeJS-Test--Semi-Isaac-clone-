@@ -13,7 +13,7 @@ export class Player {
         this._scene = scene;
         this._camera = camera;
         this._ground = ground;
-
+//fsdfjdshfgkdjh
         this._raycaster = new THREE.Raycaster();
 
         this._bullets = [];
